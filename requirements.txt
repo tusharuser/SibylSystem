@@ -1,5 +1,6 @@
-telethon
-aiohttp
-motor 
+telethon==1.23.0
+aiohttp>=3.0
+motor
 heroku3
-pillow
+Pillow>=4.2.0
+dnspython
